@@ -3,4 +3,5 @@ I would encourage you to check this nicely created example of simple transaction
 
 Prepared the Balance Sheet, Income Statement, and Statement of Cash Flow by using the direct & indirect method.
 In this Excel sheet, you will find all the journal entries, general ledger, and trial balance to check the accuracy of the financial statements.
+
 Thank you so much for your time.
